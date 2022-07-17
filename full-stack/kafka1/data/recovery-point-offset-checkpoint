@@ -2,7 +2,7 @@
 61
 __consumer_offsets 22 0
 __consumer_offsets 30 0
-get.users.reply 0 14
+get.users.reply 0 17
 __consumer_offsets 8 0
 __consumer_offsets 21 0
 create.user.reply 0 0
@@ -13,8 +13,8 @@ __consumer_offsets 9 0
 __consumer_offsets 46 0
 update.user.reply 0 0
 __consumer_offsets 25 0
-__consumer_offsets 35 20
-__consumer_offsets 41 52
+__consumer_offsets 35 26
+__consumer_offsets 41 59
 __consumer_offsets 33 0
 __consumer_offsets 23 0
 __consumer_offsets 49 0
@@ -49,7 +49,7 @@ delete.user 0 0
 __consumer_offsets 20 0
 __consumer_offsets 0 0
 __consumer_offsets 44 0
-get.users 0 15
+get.users 0 18
 __consumer_offsets 39 0
 __consumer_offsets 12 0
 __consumer_offsets 45 0
